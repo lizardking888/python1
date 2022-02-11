@@ -1,0 +1,6 @@
+list = (12, 'kawabanga', 1.7, True)
+print(list)
+print('тип первого аргумента ', type(12))
+print('тип второго аргумента ', type('kawabanga'))
+print('тип третьего аргумента ', type(1.7))
+print('тип четвертого аргумента ', type(True))
