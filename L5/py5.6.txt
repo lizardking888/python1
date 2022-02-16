@@ -1,0 +1,5 @@
+IT: 150 (lec) 50 (pr) 20 (lab)
+Physics: 30 (lec) 10 (lab)
+PE: 30 (pr)
+Psychology: 100 (lec)
+Biology: 30 (lec) 4 (lab)
